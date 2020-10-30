@@ -34,7 +34,7 @@ body {
 #Info > h1 {
     font-family: 'Syne Mono', monospace;
     text-align: center;
-    font-size: 35px;
+    font-size: 45px;
 }
 
 #Info > a {
@@ -42,9 +42,10 @@ body {
     font-family: 'Syne Mono', monospace;
     background-color: orange;
     padding: 20px;
-    font-size: 20px;
+    font-size: 30px;
     border-radius: 20px;
     margin: 10px;
-    margin-left: 45.5%;
+    margin-left: 44.5%;
     margin-right: auto;
+    text-decoration: none;
 }

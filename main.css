@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Creepster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Syne+Mono&display=swap');
+
+#Nav {
+    background-color: orange;
+    padding: 0px;
+    margin: 0px;
+    display: inline-block;
+    border-bottom-right-radius: 10px;
+    width: 100%
+}
+#Nav > h1 {
+    font-family: 'Creepster', cursive;
+    font-size: 60px;
+    text-align: center;
+    padding-top: 10px;
+    margin-top: 10px;
+}
+
+body {
+    padding: 0px;
+    margin: 0px;
+    background-color: #cdcdcd;
+}
+
+#Info {
+    width: 90%;
+    height: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    border-radius: 3px;
+}
+#Info > h1 {
+    font-family: 'Syne Mono', monospace;
+    text-align: center;
+    font-size: 35px;
+}
+
+#Info > a {
+    color: black;
+    font-family: 'Syne Mono', monospace;
+    background-color: orange;
+    padding: 20px;
+    font-size: 20px;
+    border-radius: 20px;
+    margin: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
